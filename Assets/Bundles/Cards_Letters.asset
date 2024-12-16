@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b55f57fe634b264b997405801aab84b, type: 3}
+  m_Name: Cards_Letters
+  m_EditorClassIdentifier: 
+  _cardData:
+  - _name: A
+    _sprite: {fileID: 4963718625464178563, guid: 0b27ba4f07afc0546a93015e8dbaa1f2, type: 3}
+    _color: {r: 1, g: 0.8254717, b: 0.944151, a: 1}
+    _zAngle: 0
+  - _name: B
+    _sprite: {fileID: 7783457984840754399, guid: 0b27ba4f07afc0546a93015e8dbaa1f2, type: 3}
+    _color: {r: 1, g: 0.7877358, b: 0.826163, a: 1}
+    _zAngle: 0
+  - _name: C
+    _sprite: {fileID: 3234300448368640894, guid: 0b27ba4f07afc0546a93015e8dbaa1f2, type: 3}
+    _color: {r: 1, g: 0.82198656, b: 0.6462264, a: 1}
+    _zAngle: 0
+  - _name: D
+    _sprite: {fileID: 7911670913450602933, guid: 0b27ba4f07afc0546a93015e8dbaa1f2, type: 3}
+    _color: {r: 1, g: 0.89415556, b: 0.6745283, a: 1}
+    _zAngle: 0
+  - _name: E
+    _sprite: {fileID: 4652326554734856401, guid: 0b27ba4f07afc0546a93015e8dbaa1f2, type: 3}
+    _color: {r: 1, g: 0.7496813, b: 0.6367924, a: 1}
+    _zAngle: 0
+  - _name: F
+    _sprite: {fileID: -6426668015567183463, guid: 0b27ba4f07afc0546a93015e8dbaa1f2, type: 3}
+    _color: {r: 0.77748865, g: 0.7311321, b: 1, a: 1}
+    _zAngle: 0
+  - _name: G
+    _sprite: {fileID: 216406037199867053, guid: 0b27ba4f07afc0546a93015e8dbaa1f2, type: 3}
+    _color: {r: 1, g: 0.80392164, b: 0.93725497, a: 1}
+    _zAngle: 0
+  - _name: H
+    _sprite: {fileID: -8235857483100294123, guid: 0b27ba4f07afc0546a93015e8dbaa1f2, type: 3}
+    _color: {r: 0.80918163, g: 0.7688679, b: 1, a: 1}
+    _zAngle: 0
+  - _name: I
+    _sprite: {fileID: -3541686595128163680, guid: 0b27ba4f07afc0546a93015e8dbaa1f2, type: 3}
+    _color: {r: 1, g: 0.95294124, b: 0.8235295, a: 1}
+    _zAngle: 0
+  - _name: J
+    _sprite: {fileID: -2756605603065543306, guid: 0b27ba4f07afc0546a93015e8dbaa1f2, type: 3}
+    _color: {r: 1, g: 0.80392164, b: 0.93725497, a: 1}
+    _zAngle: 0
+  - _name: K
+    _sprite: {fileID: -1127063002332224934, guid: 0b27ba4f07afc0546a93015e8dbaa1f2, type: 3}
+    _color: {r: 1, g: 0.7955975, b: 0.6933962, a: 1}
+    _zAngle: 0
+  - _name: L
+    _sprite: {fileID: -5901097786099144959, guid: 0b27ba4f07afc0546a93015e8dbaa1f2, type: 3}
+    _color: {r: 1, g: 0.95294124, b: 0.8352942, a: 1}
+    _zAngle: 0
+  - _name: M
+    _sprite: {fileID: 3295844289267200183, guid: 0b27ba4f07afc0546a93015e8dbaa1f2, type: 3}
+    _color: {r: 0.8633702, g: 0.8349056, b: 1, a: 1}
+    _zAngle: 0
+  - _name: N
+    _sprite: {fileID: 7112752472869403061, guid: 15bab376c9b0d26438750915e5cf222a, type: 3}
+    _color: {r: 1, g: 0.7843138, b: 0.93725497, a: 1}
+    _zAngle: 0
+  - _name: O
+    _sprite: {fileID: 5433449995169814141, guid: 15bab376c9b0d26438750915e5cf222a, type: 3}
+    _color: {r: 1, g: 0.7311321, b: 0.7778917, a: 1}
+    _zAngle: 0
+  - _name: P
+    _sprite: {fileID: -4252152113809563852, guid: 15bab376c9b0d26438750915e5cf222a, type: 3}
+    _color: {r: 1, g: 0.78187066, b: 0.6650944, a: 1}
+    _zAngle: 0
+  - _name: Q
+    _sprite: {fileID: -4447791616812998045, guid: 15bab376c9b0d26438750915e5cf222a, type: 3}
+    _color: {r: 0.8705883, g: 0.8470589, b: 1, a: 1}
+    _zAngle: 0
+  - _name: R
+    _sprite: {fileID: -6342808464625005154, guid: 15bab376c9b0d26438750915e5cf222a, type: 3}
+    _color: {r: 1, g: 0.95294124, b: 0.82745105, a: 1}
+    _zAngle: 0
+  - _name: S
+    _sprite: {fileID: 8083504644574312765, guid: 15bab376c9b0d26438750915e5cf222a, type: 3}
+    _color: {r: 1, g: 0.9657582, b: 0.7688679, a: 1}
+    _zAngle: 0
+  - _name: T
+    _sprite: {fileID: -4461999128152558772, guid: 15bab376c9b0d26438750915e5cf222a, type: 3}
+    _color: {r: 1, g: 0.8078432, b: 0.93725497, a: 1}
+    _zAngle: 0
+  - _name: U
+    _sprite: {fileID: 3270655726746431581, guid: 15bab376c9b0d26438750915e5cf222a, type: 3}
+    _color: {r: 1, g: 0.80392164, b: 0.93725497, a: 1}
+    _zAngle: 0
+  - _name: V
+    _sprite: {fileID: -2983290644488427326, guid: 15bab376c9b0d26438750915e5cf222a, type: 3}
+    _color: {r: 1, g: 0.8196079, b: 0.854902, a: 1}
+    _zAngle: 0
+  - _name: W
+    _sprite: {fileID: -9165466868132007793, guid: 15bab376c9b0d26438750915e5cf222a, type: 3}
+    _color: {r: 1, g: 0.8349056, b: 0.94645584, a: 1}
+    _zAngle: 0
+  - _name: X
+    _sprite: {fileID: 4461586319009975920, guid: 15bab376c9b0d26438750915e5cf222a, type: 3}
+    _color: {r: 1, g: 0.9533019, b: 0.8443396, a: 1}
+    _zAngle: 0
+  - _name: Y
+    _sprite: {fileID: -5001085640463096552, guid: a12793508cc592c408b970d449b6b11c, type: 3}
+    _color: {r: 0.84396446, g: 0.8066038, b: 1, a: 1}
+    _zAngle: 0
+  - _name: Z
+    _sprite: {fileID: 3539555106843919260, guid: a12793508cc592c408b970d449b6b11c, type: 3}
+    _color: {r: 1, g: 0.90630585, b: 0.759434, a: 1}
+    _zAngle: 0
